@@ -1,1 +1,0 @@
-first program is for printing square of number till 10
