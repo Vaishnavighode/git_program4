@@ -1,0 +1,1 @@
+second file is to check wheather a string is palandrome or not
